@@ -1,0 +1,9 @@
+c:\users\levent\documents\visual studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\bin\Debug\Luttop_Musteri.exe
+c:\users\levent\documents\visual studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\bin\Debug\Luttop_Musteri.pdb
+c:\users\levent\documents\visual studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\obj\x86\Debug\Luttop_Musteri.Form1.resources
+c:\users\levent\documents\visual studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\obj\x86\Debug\Luttop_Musteri.Properties.Resources.resources
+c:\users\levent\documents\visual studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\obj\x86\Debug\Luttop_Musteri.csproj.GenerateResource.Cache
+c:\users\levent\documents\visual studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\obj\x86\Debug\Luttop_Musteri.exe
+c:\users\levent\documents\visual studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\obj\x86\Debug\Luttop_Musteri.pdb
+c:\users\levent\documents\visual studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\obj\x86\Debug\Luttop_Musteri.Form2.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\Luttop_Musteri\Luttop_Musteri\obj\x86\Debug\Luttop_Musteri.csprojResolveAssemblyReference.cache
